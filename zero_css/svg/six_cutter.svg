@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 3000 3000" style="enable-background:new 0 0 3000 3000;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#040000;}
+	.st1{fill:#CCCCCC;}
+</style>
+<g id="レイヤー_3">
+	<polygon class="st0" points="1500,346 1833.33,923.35 2500,923.35 2166.67,1500.7 2500,2078.05 1833.33,2078.05 1500,2655.4 
+		1166.67,2078.05 500,2078.05 833.33,1500.7 500,923.35 1166.67,923.35 	"/>
+	<circle cx="500" cy="923" r="120"/>
+	<circle cx="2500" cy="923" r="120"/>
+	<circle cx="1500" cy="346" r="120"/>
+	<circle cx="1500" cy="2655" r="120"/>
+	<circle cx="2500" cy="2079" r="120"/>
+	<circle cx="500" cy="2079" r="120"/>
+</g>
+<g id="レイヤー_2">
+	<polygon class="st1" points="500,922 1500,2654 2500,922 	"/>
+	<polygon class="st1" points="500,2078 2500,2078 1500,346 	"/>
+</g>
+</svg>
